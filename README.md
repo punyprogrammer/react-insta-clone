@@ -8,3 +8,9 @@
 ##### 1)Users profile page
 ##### 2)Like support
 ##### 3)Follow feature
+### Homepage Preview
+![image](https://user-images.githubusercontent.com/83149058/144697364-6c6b5f61-f873-4636-bd4d-ec07b3a1f527.png)
+### Signup Modal
+![image](https://user-images.githubusercontent.com/83149058/144697421-33c80836-8afb-40de-9af8-4e6fd943e566.png)
+
+
